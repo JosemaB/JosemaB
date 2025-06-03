@@ -6,7 +6,8 @@
   </h2>
 
   <p style="max-width: 600px; font-size: 1.1rem; color: #444;">
-        Profesional dedicado principalmente al desarrollo frontend con Angular 19 a nivel junior, con experiencia también en backend utilizando Node.js. Enfocado en crear interfaces limpias y funcionales, con ganas de seguir creciendo en el ámbito del desarrollo web
+   A professional focused mainly on frontend development using Angular 19 at a junior level, with additional experience in backend 
+   using Node.js. Passionate about building clean and functional interfaces, and eager to grow in the web development field
   </p>
 
   <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" alt="coding gif" />
