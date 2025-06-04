@@ -1,14 +1,14 @@
 <div align="center">
 
   <h2>
-    Welcome to my Dev Space
+    Hi, I'm Jose Manuel 
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" alt="Hi" />
   </h2>
 
   <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" alt="coding 
    gif" />
   <p style="max-width: 600px; font-size: 1.1rem; color: #444;">
-     Hi, I'm **Jose Manuel Illana Benavides**<br>A developer specialized in modern Angular and also experienced with Node.js.  
+      A developer specialized in modern Angular and also experienced with Node.js.  
      My main focus is on frontend development, creating clean and efficient user interfaces leveraging Angular's modern reactive features 
      like Signals.
   </p>
