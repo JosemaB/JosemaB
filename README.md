@@ -8,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" alt="coding 
    gif" />
   <p style="max-width: 600px; font-size: 1.1rem; color: #444;">
-      A developer specialized in modern Angular and also experienced with Node.js.  
+     Developer specialized in modern Angular and also experienced with Node.js.  
      My main focus is on frontend development, creating clean and efficient user interfaces leveraging Angular's modern reactive features 
      like Signals.
   </p>
